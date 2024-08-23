@@ -1,0 +1,188 @@
+{
+  "jf": {
+    "dimension": {
+      "0": {
+        "value": "0rem",
+        "type": "dimension"
+      },
+      "1": {
+        "value": "0.125rem",
+        "type": "dimension",
+        "description": "2px"
+      },
+      "2": {
+        "value": "0.25rem",
+        "type": "dimension",
+        "description": "4px"
+      },
+      "3": {
+        "value": "0.5rem",
+        "type": "dimension",
+        "description": "8px"
+      },
+      "4": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "description": "12px"
+      },
+      "5": {
+        "value": "1rem",
+        "type": "dimension",
+        "description": "16px"
+      },
+      "6": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "description": "20px"
+      },
+      "7": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "description": "24px"
+      },
+      "8": {
+        "value": "1.75rem",
+        "type": "dimension",
+        "description": "28px"
+      },
+      "9": {
+        "value": "2rem",
+        "type": "dimension",
+        "description": "32px"
+      },
+      "10": {
+        "value": "2.25rem",
+        "type": "dimension",
+        "description": "36px"
+      },
+      "11": {
+        "value": "2.5rem",
+        "type": "dimension",
+        "description": "40px"
+      },
+      "12": {
+        "value": "2.75rem",
+        "type": "dimension",
+        "description": "44px"
+      },
+      "13": {
+        "value": "3rem",
+        "type": "dimension",
+        "description": "48px"
+      },
+      "14": {
+        "value": "3.5rem",
+        "type": "dimension",
+        "description": "56px"
+      },
+      "15": {
+        "value": "4rem",
+        "type": "dimension",
+        "description": "64px"
+      },
+      "16": {
+        "value": "4.5rem",
+        "type": "dimension",
+        "description": "72px"
+      },
+      "17": {
+        "value": "5rem",
+        "type": "dimension",
+        "description": "80px"
+      },
+      "18": {
+        "value": "6rem",
+        "type": "dimension",
+        "description": "96px"
+      },
+      "19": {
+        "value": "7rem",
+        "type": "dimension",
+        "description": "112px"
+      },
+      "20": {
+        "value": "8rem",
+        "type": "dimension",
+        "description": "128px"
+      },
+      "21": {
+        "value": "9rem",
+        "type": "dimension",
+        "description": "144px"
+      },
+      "22": {
+        "value": "10rem",
+        "type": "dimension",
+        "description": "160px"
+      },
+      "23": {
+        "value": "11rem",
+        "type": "dimension",
+        "description": "176px"
+      },
+      "24": {
+        "value": "12rem",
+        "type": "dimension",
+        "description": "192px"
+      }
+    },
+    "font-size": {
+      "xs2": {
+        "value": "0.75rem",
+        "type": "fontSizes"
+      },
+      "xs": {
+        "value": "0.875rem",
+        "type": "fontSizes"
+      },
+      "md": {
+        "value": "1.06rem",
+        "type": "fontSizes"
+      },
+      "sm": {
+        "value": "0.9375rem",
+        "type": "fontSizes"
+      },
+      "lg": {
+        "value": "1.25rem",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "1.5rem",
+        "type": "fontSizes"
+      },
+      "xl2": {
+        "value": "1.75rem",
+        "type": "fontSizes"
+      },
+      "xl3": {
+        "value": "2rem",
+        "type": "fontSizes"
+      },
+      "g": {
+        "value": "2.5rem",
+        "type": "fontSizes"
+      },
+      "xg": {
+        "value": "3rem",
+        "type": "fontSizes"
+      },
+      "xg2": {
+        "value": "3.5rem",
+        "type": "fontSizes"
+      },
+      "xg3": {
+        "value": "4rem",
+        "type": "fontSizes"
+      },
+      "xg4": {
+        "value": "4.5rem",
+        "type": "fontSizes"
+      },
+      "xg5": {
+        "value": "5rem",
+        "type": "fontSizes"
+      }
+    }
+  }
+}
